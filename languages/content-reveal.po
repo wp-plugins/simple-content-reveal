@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Artiss Content Reveal\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-27 14:37-0000\n"
+"PO-Revision-Date: 2012-07-27 14:37-0000\n"
+"Last-Translator: David Artiss <david.artiss@artiss.co.uk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/acr-admin-config.php:29
+msgid "Settings"
+msgstr ""
+
+#: includes/acr-admin-config.php:52
+msgid "Support"
+msgstr ""
+
+#: includes/acr-admin-config.php:53
+#: includes/artiss-plugin-ads.php:45
+msgid "Donate"
+msgstr ""
+
+#: includes/acr-admin-config.php:147
+msgid "Help"
+msgstr ""
+
+#: includes/acr-admin-config.php:204
+msgid "This screen allows you to set default options for Artiss Content Reveal. Simply change the require options and then click the Save Settings button at the bottom of the screen for the new settings to take effect."
+msgstr ""
+
+#: includes/acr-admin-config.php:205
+msgid "For more information:"
+msgstr ""
+
+#: includes/acr-admin-config.php:205
+msgid "Artiss Content Reveal Plugin Documentation"
+msgstr ""
+
+#: includes/acr-admin-config.php:206
+msgid "Artiss Content Reveal Support Forum"
+msgstr ""
+
+#: includes/acr-admin-config.php:207
+#: includes/acr-support.php:36
+msgid "This plugin, and all support, is supplied for free, but <a title=\"Donate\" href=\"http://artiss.co.uk/donate\" target=\"_blank\">donations</a> are always welcome."
+msgstr ""
+
+#: includes/acr-admin-config.php:268
+msgid "Welcome to Artiss Content Reveal"
+msgstr ""
+
+#: includes/acr-admin-config.php:269
+msgid "Thank you for installing this plugin."
+msgstr ""
+
+#: includes/acr-admin-config.php:270
+msgid "A new menu has been added to the sidebar. This will allow you to change the default options (recommended!) and find useful support information."
+msgstr ""
+
+#: includes/acr-generate-reveal-code.php:54
+msgid "The cookie length was not numeric - it should be a number of hours"
+msgstr ""
+
+#: includes/acr-generate-reveal-code.php:59
+msgid "No heading was specified"
+msgstr ""
+
+#: includes/acr-generate-reveal-code.php:66
+msgid "Invalid image extension - must be PNG or GIF"
+msgstr ""
+
+#: includes/acr-generate-reveal-code.php:91
+msgid "Invalid default - must be blank, 'show' or 'hide'"
+msgstr ""
+
+#: includes/acr-options.php:30
+msgid "Settings Saved."
+msgstr ""
+
+#: includes/acr-options.php:42
+msgid "These are the general settings for Artiss Content Reveal."
+msgstr ""
+
+#: includes/acr-options.php:49
+msgid "Show Editor Button"
+msgstr ""
+
+#: includes/acr-options.php:50
+msgid "Show the Content Reveal button on the post editor"
+msgstr ""
+
+#: includes/acr-options.php:54
+msgid "Cookie Use"
+msgstr ""
+
+#: includes/acr-options.php:56
+msgid "Do not store cookies"
+msgstr ""
+
+#: includes/acr-options.php:57
+msgid "Use cookies unless Do Not Track is active"
+msgstr ""
+
+#: includes/acr-options.php:58
+msgid "Use cookies and ignore Do Not Track"
+msgstr ""
+
+#: includes/acr-options.php:59
+msgid "Cookies are used to store the state of content.<br/><a href=\"http://donottrack.us/\">Do Not Track</a> is a browser option that requests that information is not stored about that user."
+msgstr ""
+
+#: includes/acr-options.php:63
+msgid "Cookie Retention"
+msgstr ""
+
+#: includes/acr-options.php:66
+msgid "Hours"
+msgstr ""
+
+#: includes/acr-options.php:67
+msgid "Days"
+msgstr ""
+
+#: includes/acr-options.php:68
+msgid "How long to retain the cookies for"
+msgstr ""
+
+#: includes/acr-options.php:72
+msgid "Remove Adverts"
+msgstr ""
+
+#: includes/acr-options.php:73
+msgid "If you've <a href=\"http://www.artiss.co.uk/donate\">donated</a>, tick here to remove the adverts in the administration screens."
+msgstr ""
+
+#: includes/acr-options.php:80
+msgid "Save Settings"
+msgstr ""
+
+#: includes/acr-readme.php:14
+msgid "Artiss Content Reveal README"
+msgstr ""
+
+#: includes/acr-shortcodes.php:85
+msgid "hours"
+msgstr ""
+
+#: includes/acr-shortcodes.php:87
+msgid "days"
+msgstr ""
+
+#: includes/acr-shortcodes.php:91
+msgid "an unknown period of time"
+msgstr ""
+
+#: includes/acr-support.php:14
+msgid "Artiss Content Reveal Support"
+msgstr ""
+
+#: includes/acr-support.php:27
+#, php-format
+msgid "You are using Artiss Content Reveal version %s. It was written by David Artiss."
+msgstr ""
+
+#: includes/acr-support.php:33
+msgid "Plugin Support Information"
+msgstr ""
+
+#: includes/acr-support.php:34
+msgid "Artiss Content Reveal plugin documentation"
+msgstr ""
+
+#: includes/acr-support.php:35
+msgid "Artiss Content Reveal support forum"
+msgstr ""
+
+#: includes/acr-support.php:40
+msgid "Acknowledgements"
+msgstr ""
+
+#: includes/acr-support.php:41
+#, php-format
+msgid "Images have been compressed with %s."
+msgstr ""
+
+#: includes/acr-support.php:42
+#, php-format
+msgid "JavaScript has been compressed with %s."
+msgstr ""
+
+#: includes/acr-support.php:43
+#, php-format
+msgid "CSS has been compressed with the %s."
+msgstr ""
+
+#: includes/acr-support.php:44
+#, php-format
+msgid "JavaScript cookie code was suppled by %s."
+msgstr ""
+
+#: includes/acr-support.php:48
+msgid "Stay in Touch"
+msgstr ""
+
+#: includes/acr-support.php:49
+msgid "<a href=\"http://www.artiss.co.uk/wp-plugins\">See the full list</a> of Artiss plugins, including beta releases."
+msgstr ""
+
+#: includes/acr-support.php:50
+msgid "<a href=\"http://www.twitter.com/artiss_tech\">Follow Artiss.co.uk</a> on Twitter."
+msgstr ""
+
+#: includes/acr-support.php:51
+msgid "<a href=\"http://www.artiss.co.uk/feed\">Subscribe</a> to the Artiss.co.uk news feed."
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:46
+msgid "If you like this plugin and appreciate the effort being put into it, <a href=\"http://www.artiss.co.uk/donate\">please consider donating</a>."
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:47
+msgid "Follow Me"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:48
+msgid "Please stay in touch with the latest news via one of the following social streams..."
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:50
+msgid "Follow Artiss.co.uk on Twitter"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:51
+msgid "Follow Artiss.co.uk on Facebook"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:52
+msgid "Follow Artiss.co.uk on Google+"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:53
+msgid "Follow Artiss.co.uk on RSS feed"
+msgstr ""
+
